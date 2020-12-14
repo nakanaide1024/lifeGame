@@ -1,0 +1,16 @@
+table {
+  border: solid 1px #000000;
+  border-collapse: collapse;
+}
+tr {
+  height: 13px;
+}
+td {
+  width: 10px;
+}
+td.alive {
+  background-color: black;
+}
+td.death {
+  background-color: white;
+}
